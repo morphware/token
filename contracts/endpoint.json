@@ -1,0 +1,1 @@
+url --request POST http://167.172.239.133:5000/products -H "Content-Type: application/json" -d '{"provider":"amazon","service":"compute","region":"us-east-1"}'
